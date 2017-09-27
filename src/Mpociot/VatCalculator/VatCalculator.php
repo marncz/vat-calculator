@@ -159,7 +159,7 @@ class VatCalculator
 
         // Non-EU with their own VAT requirements
         'NO' => [ // Norway
-            'rate' => 0.25,
+            'rate' => 0.00,
         ],
     ];
 
